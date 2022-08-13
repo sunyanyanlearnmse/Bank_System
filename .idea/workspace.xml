@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a01ed30-99f1-4b37-9455-11ef79aac362" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2DALti6NVFMyTJr7sDUA8XsRRe6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/bin/views" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.3681885" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WorkSpace\HW\04-JavaFx\BankDemoFX 7\Bank_SystemFX\src\views" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="controllers" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WorkSpace\HW\04-JavaFx\BankDemoFX 7\Bank_SystemFX\bin\views" />
+      <recent name="D:\WorkSpace\HW\04-JavaFx\BankDemoFX 7\Bank_SystemFX\src\views" />
+      <recent name="D:\WorkSpace\HW\04-JavaFx\BankDemoFX 7\BankDemoFX 7\src\views" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="application.Main" />
+      <module name="Bank_SystemFX" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a01ed30-99f1-4b37-9455-11ef79aac362" name="Default Changelist" comment="" />
+      <created>1660137158500</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660137158500</updated>
+      <workItem from="1660137166628" duration="9142000" />
+      <workItem from="1660217249882" duration="25348000" />
+      <workItem from="1660388256936" duration="1601000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Project_Structure" timestamp="1660137465624">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1660137465624" />
+    <state x="233" y="0" key="#SQL_Dialects" timestamp="1660302392071">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#SQL_Dialects/0.0.1280.680@0.0.1280.680" timestamp="1660302392071" />
+    <state x="446" y="25" key="#com.intellij.ide.util.MemberChooser" timestamp="1660300485909">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="25" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1660300485909" />
+    <state x="488" y="230" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1660137188702">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="488" y="230" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.680@0.0.1280.680" timestamp="1660137188702" />
+    <state x="42" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1660231423851">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="42" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1660231423851" />
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1660231746771">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1660231746771" />
+    <state width="447" height="438" key="DebuggerActiveHint" timestamp="1660302247663">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="447" height="438" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1660302247663" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1660139654523">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1660139654523" />
+    <state width="1876" height="276" key="GridCell.Tab.0.bottom" timestamp="1660389923225">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1236" height="160" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1660305972824" />
+    <state width="1876" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1660389923225" />
+    <state width="1876" height="276" key="GridCell.Tab.0.center" timestamp="1660389923224">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1236" height="160" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1660305972824" />
+    <state width="1876" height="276" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1660389923224" />
+    <state width="1876" height="276" key="GridCell.Tab.0.left" timestamp="1660389923224">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1236" height="160" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1660305972824" />
+    <state width="1876" height="276" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1660389923224" />
+    <state width="1876" height="276" key="GridCell.Tab.0.right" timestamp="1660389923225">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1236" height="160" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1660305972824" />
+    <state width="1876" height="276" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1660389923225" />
+    <state width="1876" height="276" key="GridCell.Tab.1.bottom" timestamp="1660389923109">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1236" height="160" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1660305972824" />
+    <state width="1876" height="276" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1660389923109" />
+    <state width="1876" height="276" key="GridCell.Tab.1.center" timestamp="1660389923109">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1236" height="160" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1660305972824" />
+    <state width="1876" height="276" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1660389923109" />
+    <state width="1876" height="276" key="GridCell.Tab.1.left" timestamp="1660389923109">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1236" height="160" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1660305972824" />
+    <state width="1876" height="276" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1660389923109" />
+    <state width="1876" height="276" key="GridCell.Tab.1.right" timestamp="1660389923109">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1236" height="160" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1660305972824" />
+    <state width="1876" height="276" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1660389923109" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1660142293598">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1660142293598" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1660388257175">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1660388257175" />
+    <state x="321" y="73" width="638" height="534" key="find.popup" timestamp="1660142310262">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="321" y="73" width="638" height="534" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1660142310262" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="username.isEmpty()" language="JAVA" />
+        <watch expression="accountTable.getSelectionModel()" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

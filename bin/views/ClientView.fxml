@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controllers.ClientController">
+   <children>
+      <VBox prefHeight="194.0" prefWidth="600.0">
+         <children>
+            <TableView fx:id="accountTableView" onMouseClicked="#getAccountItem" prefHeight="234.0" prefWidth="600.0">
+              <columns>
+                <TableColumn fx:id="colId" prefWidth="75.0" text="id" />
+                <TableColumn fx:id="colAmount" prefWidth="75.0" text="Amount" />
+                  <TableColumn fx:id="colType" prefWidth="75.0" text="Type" />
+              </columns>
+            </TableView>
+         </children></VBox>
+      <VBox prefHeight="200.0" prefWidth="100.0">
+         <children>
+            <VBox prefHeight="200.0" prefWidth="100.0">
+               <children>
+                  <GridPane alignment="CENTER" prefHeight="144.0" prefWidth="600.0">
+                    <columnConstraints>
+                      <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                      <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                    </columnConstraints>
+                    <rowConstraints>
+                      <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                      <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                      <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                    </rowConstraints>
+                     <children>
+                        <Label alignment="CENTER_RIGHT" prefHeight="15.0" prefWidth="300.0" text="Balance:">
+                           <padding>
+                              <Insets right="20.0" />
+                           </padding></Label>
+                        <TextField fx:id="txtBalance" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefWidth="150.0" GridPane.columnIndex="1" />
+                        <Label alignment="CENTER_RIGHT" prefHeight="15.0" prefWidth="304.0" text="Amount:" GridPane.rowIndex="1">
+                           <padding>
+                              <Insets right="20.0" />
+                           </padding></Label>
+                        <Label alignment="CENTER_RIGHT" contentDisplay="CENTER" prefHeight="15.0" prefWidth="301.0" text="Type:" GridPane.rowIndex="2">
+                           <opaqueInsets>
+                              <Insets />
+                           </opaqueInsets>
+                           <padding>
+                              <Insets right="20.0" />
+                           </padding></Label>
+                        <TextField fx:id="txtAmount" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefWidth="150.0" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+                        <ComboBox fx:id="cmbType" prefWidth="150.0" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+                        <Button fx:id="btnCancel" mnemonicParsing="false" onAction="#cancel" text="Cancel" GridPane.columnIndex="1" GridPane.rowIndex="3">
+                           <GridPane.margin>
+                              <Insets left="30.0" />
+                           </GridPane.margin></Button>
+                        <VBox alignment="CENTER_RIGHT" prefHeight="200.0" prefWidth="100.0" GridPane.rowIndex="3">
+                           <children>
+                              <Button fx:id="btnConfirm" alignment="CENTER_RIGHT" mnemonicParsing="false" onAction="#confirm" text="Confirm" />
+                           </children>
+                           <padding>
+                              <Insets right="30.0" />
+                           </padding>
+                        </VBox>
+                        <Label fx:id="accountId" text="Label" visible="false" GridPane.rowIndex="2" />
+                     </children>
+                  </GridPane>
+               </children>
+            </VBox>
+            <VBox alignment="CENTER" prefHeight="61.0" prefWidth="600.0">
+               <children>
+                   <Label fx:id="lblError" text="" />
+               </children></VBox>
+         </children>
+      </VBox>
+   </children>
+</VBox>
